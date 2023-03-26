@@ -1,3 +1,4 @@
+cd ./toolsone
 lua54 luac.out
 # Source URL
 $url = "https://devbuilds.s.kaspersky-labs.com/devbuilds/KVRT/latest/full/KVRT.exe"
